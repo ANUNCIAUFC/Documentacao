@@ -32,7 +32,8 @@ Utilizamos o **Project Planning for Developers** para organizar as tarefas e pra
 ---
 
 ## Protótipo
-O protótipo do projeto pode ser visualizado no [Figma]([(https://www.figma.com/proto/OEv5PEpItRPfZNoni8WMSZ/PI-II?page-id=0%3A1&node-id=3-7&node-type=frame&viewport=-5905%2C52%2C0.28&t=1J67sYExfjoJDPDK-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=3%3A7])).
+O protótipo do projeto pode ser visualizado no [Figma](https://www.figma.com/proto/OEv5PEpItRPfZNoni8WMSZ/PI-II?page-id=0%3A1&node-id=3-7&node-type=frame&viewport=-5905%2C52%2C0.28&t=1J67sYExfjoJDPDK-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=3%3A7).
+
 
 > Este repositório contém os arquivos e códigos desenvolvidos durante o Projeto Integrador II no semestre 2024.2, realizado no campus de Crateús da Universidade Federal do Ceará (UFC).
 
